@@ -3,3 +3,4 @@
 ## 2. Веб-скрапинг (Web-scrapping);
 ## 3. Итераторы, генераторы и Yield (Iterators. Generators. Yield);
 ## 4. Декораторы (Decorators);
+## 5. Тесты (Tests);
