@@ -4,3 +4,4 @@
 ## 3. Итераторы, генераторы и Yield (Iterators. Generators. Yield);
 ## 4. Декораторы (Decorators);
 ## 5. Тесты (Tests);
+## 6. Подготовка к соб5еседованиям (Preparing_For_The_Interview);
